@@ -1,4 +1,4 @@
-
+(Download the file to run)
 # LoRA Fine-Tuning on Quantized Model for Arithmetic Reasoning
 
 This repository contains an implementation of parameter-efficient fine-tuning using Low-Rank Adaptation (LoRA) applied to a quantized version of the TinyLLaMA-1.1B-Chat model. The model is fine-tuned on a subset of the GSM8K dataset, which consists of grade-school level arithmetic word problems.
