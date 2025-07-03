@@ -39,7 +39,6 @@ The goal of this project is to demonstrate how large language models can be fine
 ## Directory Structure
 
 - `LoRA_FineTuning.ipynb`: Main notebook for loading, training, and evaluating the model.
-- `tinyllama-lora-tuned-adapter-math/`: Directory containing the saved LoRA adapter and tokenizer.
 
 ## Future Work
 
